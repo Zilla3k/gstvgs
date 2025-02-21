@@ -1,4 +1,4 @@
-package com.zilla3k.Gestao.Vagas.exceptions;
+package com.zilla3k.gestaovagas.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.zilla3k.Gestao.Vagas;
+package com.zilla3k.gestaovagas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

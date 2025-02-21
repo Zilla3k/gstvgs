@@ -1,4 +1,4 @@
-package com.zilla3k.Gestao.Vagas.exceptions;
+package com.zilla3k.gestaovagas.exceptions;
 
 import org.springframework.context.MessageSource;
 import org.springframework.context.i18n.LocaleContextHolder;
@@ -32,5 +32,4 @@ public class ExceptionHandlerController {
 
         return new ResponseEntity<>(dto, HttpStatus.BAD_REQUEST);
     }
-
 }
